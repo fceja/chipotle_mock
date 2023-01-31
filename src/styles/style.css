@@ -1,5 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 body{
     background:#fff;
+    height: 90%;
+    width: 90%;
     }
     
 img{
@@ -9,10 +19,6 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-#accordion{
-    
 }
 
 #items{
