@@ -1,6 +1,8 @@
 # chipotle_mock
 
-Chipotle menu mock using vanilla JavaScript / JQuery
+Description
+---
+Chipotle menu mock using vanilla JavaScript / JQuery.
 
 Instructions
 ---
